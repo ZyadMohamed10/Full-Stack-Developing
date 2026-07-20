@@ -1,0 +1,57 @@
+
+.left{
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.right{
+    text-align: center;
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+}
+.Data{
+    text-align: start;
+}
+
+hr{
+    border-color: tomato;
+}
+
+img{
+    width: 100%;
+}
+label{
+    display: inline-block;
+    width: 150px;
+}
+
+.row{
+    margin-bottom: 15px;
+}
+
+label{
+    display: inline-block;
+    width: 150px;
+    vertical-align: top;
+}
+
+textarea{
+    vertical-align: top;
+}
+
+.checkbox{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.checkbox p{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.title{
+    margin: 0 0 10px 0;
+    font-weight: bold;
+}
